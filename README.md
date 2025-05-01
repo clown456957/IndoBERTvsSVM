@@ -1,6 +1,7 @@
 ﻿# IndoBERT vs SVM
 ## IndoBERT Fine-Tuning for Sentiment Classification on #KaburAjaDulu Tweets 🚀
 ## IndoBERT Embeddings + SVM for Sentiment Classification on #KaburAjaDulu Tweets 🚀
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EricoAstama/IndoBERTvsSVM/blob/main/LICENSE)
 
 Proyek ini berfokus pada fine-tuning model [IndoBERT] dan [IndoBERT] Embeddings sebagai feature exctration dengan [SVM] (https://huggingface.co/indobenchmark/indobert-base-p2) untuk tugas klasifikasi sentimen terhadap tweet berbahasa Indonesia yang menggunakan tagar **#KaburAjaDulu**.
 
